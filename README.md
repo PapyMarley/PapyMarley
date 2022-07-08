@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, video games, hunting and reading.
 - 🌱 I’m currently learning JavaScript, Python and PHP
 - 💞️ I’m looking to collaborate on whatever i can to learn more.
-- 📫 How to reach me @PapyMarley on Twitter.
+- 📫 How to reach me: @PapyMarley on Twitter.
 
 <!---
 PapyMarley/PapyMarley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
